@@ -3,10 +3,10 @@ permalink: pretty
 title: 'Jekyll Serif'
 
 logo:
-  mobile: "images/logo_no_name.png"
+  mobile: "images/logo_no_name.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo_no_name.png"
+  desktop: "images/logo_no_name.svg"
   desktop_height: "32px"
   desktop_width: "120px"
 

@@ -116,3 +116,37 @@ body {
     line-height: 1.3;
   }
 }
+
+
+
+.intro-image {
+  border-radius: 50%;
+  overflow: hidden;
+  width: 80%; /* Adjusts to 50% of its container's width */
+  height: auto; /* Maintains aspect ratio */
+  max-width: 400px; /* Optional: set a maximum size for large screens */
+  min-width: 200px; /* Optional: set a minimum size for smaller screens */
+  object-fit: cover; /* Ensures the image scales to fill the circle */
+  left: auto;
+}
+
+
+.about-image img {
+  border-radius: 50%;
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  object-fit: cover;
+}
+
+.about-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* Space between text and image */
+}
+
+.about-text {
+  flex: 1; /* Allows the text to take up available space */
+}
+
