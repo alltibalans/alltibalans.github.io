@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Gratis Rådgivning",
+    "description": "Kunder erbjuds alltid gratis rådgivning.",
+    "image": {
+      "url": "images/consultation.png",
+      "width": 50,
+      "height": 50
+    }
+  },
+  {
+    "title": "Diplomerad Massageterapeut",
+    "description": "Diplomerad genom <a href='https://www.kroppsterapeuterna.se/' target='_blank'>Axelsons Gymnastiska Institut</a>.",
+    "image": {
+      "url": "images/diploma.png",
+      "width": 50,
+      "height": 50
+    }
+  },
+  {
+    "title": "Certifierad Massör",
+    "description": "Certifierad av <a href='https://www.svenskmassage.se/' target='_blank'>Branschrådet Svensk Massage</a>.",
+    "image": {
+      "url": "images/certificate.png",
+      "width": 50,
+      "height": 50
+    }
+  },
+  {
+    "title": "Ansvarsförsäkrad",
+    "description": "Du som kund kan känna dig trygg, då Lars är ansvarsförsäkrad genom <a href='https://www.kroppsterapeuterna.se/' target='_blank'>Kroppsterapeuternas Yrkesförbund</a>.",
+    "image": {
+      "url": "images/insurance.png",
+      "width": 50,
+      "height": 50
+    }
+  }
+]
